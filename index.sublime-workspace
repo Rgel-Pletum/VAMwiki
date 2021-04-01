@@ -1,0 +1,224 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/MEGASITE/index.html",
+		"/E/circus/code/mfk/font/underdog.css",
+		"/E/circus/code/mfk/style/w3-theme-teal.css",
+		"/E/circus/code/mfk/style/w3.css",
+		"/E/circus/code/mfk/index.html",
+		"/E/circus/code/mfk/style/font-awesome.min.css",
+		"/E/circus/code/mfk/Constructive Free Website Template - Free-CSS.com/2102_constructive/css/tooplate-style.css",
+		"/E/circus/code/mfk/Constructive Free Website Template - Free-CSS.com/2102_constructive/css/magnific-popup.css",
+		"/E/circus/code/mfk/Constructive Free Website Template - Free-CSS.com/2102_constructive/index.html",
+		"/E/circus/code/mfk/Constructive Free Website Template - Free-CSS.com/2102_constructive/css/bootstrap.min.css",
+		"/E/circus/code/mfk/Constructive Free Website Template - Free-CSS.com/2102_constructive/css/fontawesome-all.min.css",
+		"/C/Users/Vlad/Desktop/Первичные ЧД/диплом/diplom.tex",
+		"/E/circus/code/mfk/test.html",
+		"/E/circus/code/mfk/style/w3-theme-black.css",
+		"/E/circus/code/mfk/w3.css",
+		"/E/circus/code/First-Project/index.html",
+		"/E/circus/code/First-Project/style/style1.css",
+		"/E/circus/code/mfk/font/roboto.css",
+		"/E/circus/code/mfk/Underdog-Regular.ttf",
+		"/D/minecraft_server/start.bat",
+		"/D/minecraft_server/server.properties",
+		"/D/minecraft_server/plugins/Essentials/kits.yml",
+		"/E/circus/code/First-Project/cite/1page.html",
+		"/D/minecraft_server/plugins/Essentials/config.yml",
+		"/D/minecraft_server/commands.yml",
+		"/D/minecraft_server/plugins/PluginMetrics/config.yml",
+		"/D/minecraft_server/ops.json",
+		"/C/Users/Vlad/Desktop/test3.py",
+		"/C/Users/Vlad/Desktop/test2.py",
+		"/C/Users/Vlad/AppData/Roaming/Sublime Text 3/Packages/User/P3.sublime-build",
+		"/C/Users/Vlad/Desktop/stepik.py",
+		"/C/Users/Vlad/Desktop/Первичные ЧД/диплом/diplom.log",
+		"/E/server/bin/Apache24/conf/httpd.conf",
+		"/D/test-work/диплом/diplom.tex",
+		"/C/Users/Vlad/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/D/test-work/диплом/diplom.log",
+		"/C/Users/Vlad/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/LaTeXTools (Advanced).sublime-settings",
+		"/C/Users/Vlad/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Vlad/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/D/test-work/test.py",
+		"/E/circus/MSU/Учеба2020осень/ОММ/практическое задание/task2-2.py",
+		"/C/Users/Vlad/Desktop/MSU_2021spr/ФФ МГУ, Численные методы в физике, весна 2021/Лекция №1/pendulum.m",
+		"/C/Users/Vlad/Desktop/MSU_2021spr/ФФ МГУ, Численные методы в физике, весна 2021/scripts/test1.m",
+		"/C/Users/Vlad/Desktop/MSU_2021spr/ФФ МГУ, Численные методы в физике, весна 2021/Лекция №1/heat.m",
+		"/D/downloads/R3GV2 patches/0.start_main.bat",
+		"/D/downloads/R3GV2 patches/main.py",
+		"/D/downloads/R3GV2 patches/config.py",
+		"/D/downloads/R3GV2 patches/4.start_config.bat"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
